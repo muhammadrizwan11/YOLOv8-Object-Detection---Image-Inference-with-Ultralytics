@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 3️⃣ Run object detection:  
 ```bash
-python detect.py
+YOLO11 Detection.ipynb
 ```
 
 ## **📸 Example Usage**  
