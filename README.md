@@ -37,12 +37,12 @@ YOLO11 Detection.ipynb
 ```
 
 ## **📸 Example Usage**  
-You can perform inference on an image using YOLOv8 with:  
+You can perform inference on an image using YOLO11n with:  
 ```python
 from ultralytics import YOLO  
 
 model = YOLO("yolov8n.pt")  
-results = model("https://cdn.pixabay.com/photo/2017/03/28/12/11/chairs-2181960_960_720.jpg", save=True)
+results = model("!yolo predict model=yolo11n.pt source='https://ultralytics.com/images/zidane.jpg'", save=True)
 ```
 
 
