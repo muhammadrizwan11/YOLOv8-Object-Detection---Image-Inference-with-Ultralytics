@@ -41,7 +41,7 @@ You can perform inference on an image using YOLO11n with:
 ```python
 from ultralytics import YOLO  
 
-model = YOLO("yolov8n.pt")  
+model = YOLO("yolo11n.pt")  
 results = model("!yolo predict model=yolo11n.pt source='https://ultralytics.com/images/zidane.jpg'", save=True)
 ```
 
