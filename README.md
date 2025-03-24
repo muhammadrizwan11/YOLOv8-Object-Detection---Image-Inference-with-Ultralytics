@@ -15,7 +15,7 @@ This repository demonstrates **object detection** using **YOLOv8** by Ultralytic
 ## **📂 Repository Structure**  
 ```
 📁 YOLOv8-Object-Detection
-│── 📜 model/yolov8n.pt      # Pre-trained YOLOv8 model
+│── 📜 yolov11n.pt      # Pre-trained YOLOv8 model
 │── 📜 detect.py             # Python script for object detection
 │── 📜 requirements.txt      # List of dependencies
 │── 📜 README.md             # Project documentation
