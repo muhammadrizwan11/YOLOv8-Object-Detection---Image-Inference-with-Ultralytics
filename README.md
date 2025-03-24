@@ -46,7 +46,7 @@ results = model("https://cdn.pixabay.com/photo/2017/03/28/12/11/chairs-2181960_9
 ```
 
 ## **🖼 Sample Output**  
-![Detected Image](https://user-images.githubusercontent.com/12345678/output-example.jpg)  
+![Detected Image]([https://user-images.githubusercontent.com/12345678/output-example.jpg](https://github.com/muhammadrizwan11/YOLOv8-Object-Detection---Image-Inference-with-Ultralytics/blob/main/zidane%20(2).jpg))  
 
 ## **📌 References**  
 - [Ultralytics YOLOv8 Documentation](https://docs.ultralytics.com/)  
