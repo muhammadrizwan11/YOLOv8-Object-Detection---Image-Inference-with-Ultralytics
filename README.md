@@ -1,7 +1,7 @@
 
 ### **YOLOv8 Object Detection - Image Inference with Ultralytics** 🚀  
 
-![YOLOv8 Detection](https://user-images.githubusercontent.com/12345678/placeholder-image.jpg)  
+![YOLOv8 Detection](https://github.com/muhammadrizwan11/YOLOv8-Object-Detection---Image-Inference-with-Ultralytics/blob/main/zidane%20(2).jpg)  
 
 ## **📌 Overview**  
 This repository demonstrates **object detection** using **YOLOv8** by Ultralytics. It allows you to perform real-time inference on images using a pre-trained YOLO model with just a few lines of code.  
@@ -45,8 +45,7 @@ model = YOLO("yolov8n.pt")
 results = model("https://cdn.pixabay.com/photo/2017/03/28/12/11/chairs-2181960_960_720.jpg", save=True)
 ```
 
-## **🖼 Sample Output**  
-![Detected Image]([https://user-images.githubusercontent.com/12345678/output-example.jpg](https://github.com/muhammadrizwan11/YOLOv8-Object-Detection---Image-Inference-with-Ultralytics/blob/main/zidane%20(2).jpg))  
+
 
 ## **📌 References**  
 - [Ultralytics YOLOv8 Documentation](https://docs.ultralytics.com/)  
